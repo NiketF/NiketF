@@ -292,10 +292,7 @@ Led community and event operations for DevFest 2025 Nagpur — one of GDG's flag
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/NiketF)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/NiketF)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/NiketF)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/NiketF)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCC8Vda367/)
 
 </div>
 
@@ -384,7 +381,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/fuladiniket.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fniketfuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niketfuladi)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fniket-fuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)
 [![GitHub](https://img.shields.io/badge/github.com%2FNiketF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiketF)
 
 </div>
