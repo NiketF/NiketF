@@ -381,7 +381,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/fuladiniket.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fniket-fuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fniketfuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)
 [![GitHub](https://img.shields.io/badge/github.com%2FNiketF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiketF)
 
 </div>
