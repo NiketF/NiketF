@@ -1,221 +1,222 @@
-<!-- Profile README for NiketF -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Niket Fuladi 👋</h1>
-<h3 align="center">AI Engineer • GenAI Application Developer • NLP / LLM Systems Builder</h3>
+# Niket Fuladi 👋
 
-<p align="center">
-  <a href="https://github.com/NiketF">
-    <img src="https://komarev.com/ghpvc/?username=NiketF&label=Profile%20views&color=0e75b6&style=flat" alt="NiketF" />
-  </a>
-  <a href="https://github.com/NiketF?tab=followers">
-    <img src="https://img.shields.io/github/followers/NiketF?label=Followers&style=flat&color=1f6feb" alt="followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/niket-fuladi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Niket%20Fuladi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://niketfuladi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+### AI Engineer · GenAI · NLP/LLM Systems · Cybersecurity
+
+<a href="https://niketfuladi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/niket-fuladi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/NiketF"><img src="https://img.shields.io/badge/GitHub-NiketF-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=NiketF&style=for-the-badge&color=2455ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-## About Me
+## ⚡ About
 
-I’m a **final-year B.Tech CSE student specializing in Cyber Security** at **Shri Ramdeobaba College of Engineering and Management, Nagpur**, currently working on **production-oriented GenAI systems**.
+I’m a **final-year B.Tech CSE student specializing in Cyber Security** at **Shri Ramdeobaba College of Engineering and Management, Nagpur**, focused on building practical AI systems that solve real workflow problems.
 
-My work sits at the intersection of:
+My work sits at the intersection of **Generative AI, NLP, automation, and cybersecurity** — from privacy-policy intelligence and browser automation to developer tooling and AI-assisted workflows.
 
-- **LLM application engineering**
-- **NLP and transformer-based systems**
-- **AI workflow automation**
-- **document intelligence**
-- **privacy / compliance-aware product thinking**
+> **Build beyond the demo: useful, reliable systems grounded in real-world workflows.**
 
-I like building AI products that move beyond demos — systems that are **useful, reliable, and grounded in real workflows**.
-
-> **Engineering philosophy:** ship systems that work in the real world, not just in notebooks.
+`LLM Applications` · `NLP` · `Agentic AI` · `AI Automation` · `Document Intelligence` · `Privacy-aware AI` · `Product Engineering`
 
 ---
 
-## Current Focus
+## 🚀 Featured Builds
 
-- Building **LLM-powered applications** for real-world use cases  
-- Designing **AI workflows** that reduce repetitive work  
-- Working on **privacy-aware NLP systems**  
-- Exploring **agentic AI**, **evaluation**, and **AI product engineering**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔐 PrivacyLens
+**DPDPA-aligned privacy intelligence**
 
-## Tech Stack
+Analyzes privacy policies clause-by-clause, classifies risk, detects vagueness, identifies missing user rights, and produces a 0–100 risk score.
 
-### AI / ML / NLP
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge" />
-</p>
+**Stack:** `Python` `RoBERTa` `HuggingFace` `scikit-learn` `Streamlit`
 
-### Backend / APIs / Automation
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
+<a href="https://github.com/NiketF/PrivacyLens">→ View repository</a>
 
-### Frontend / Product
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### CS / Supporting Stack
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-7C3AED?style=for-the-badge" />
-</p>
+### 🧪 AutoTest AI
+**AI-powered E2E web testing**
 
----
+Turns a website URL into browser test flows by analyzing the DOM, selecting robust selectors, running Playwright tests, and returning structured results.
 
-## What I Build
+**Stack:** `Python` `FastAPI` `Playwright` `React`
 
-### **PrivacyLens**
-**DPDPA-aligned privacy policy analyzer** built for clause-level policy analysis using NLP and transformer-based classification.
+<a href="https://github.com/NiketF/Auto_test_ai">→ View repository</a>
 
-**Highlights**
-- Classifies privacy clauses against Indian privacy-compliance concerns  
-- Explains risky or vague language in simple English  
-- Built with a structured annotation workflow and transformer models  
-- Designed as a practical AI + compliance system, not just a benchmark model  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** NLP • Privacy AI • Compliance-aware systems
+### 🧠 Repo2Resume
+**GitHub → resume intelligence**
+
+Transforms repository/project information into concise, role-relevant resume bullets using NLP, ranking workflows, and GitHub data.
+
+**Stack:** `Python` `HuggingFace` `GitHub API` `Gradio`
+
+<a href="https://github.com/NiketF/Repo2Resume">→ View repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ SAGE
+**Storage Analysis & Guidance Engine**
+
+An in-development conversational AI concept for understanding storage clutter and guiding smarter cleanup decisions.
+
+**Focus:** `AI assistants` · `reasoning workflows` · `user-facing utility`
+
+<a href="https://niketfuladi.vercel.app/">→ See portfolio</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### **AutoTest AI**
-**AI-driven end-to-end web testing system** that analyzes live web interfaces and generates executable test flows.
+## 🧩 What I Build
 
-**Highlights**
-- Reads the DOM and reasons about user flows  
-- Generates and executes Playwright-based tests  
-- Improves reliability through selector strategies and execution memory  
-- Pushes browser testing toward autonomous QA workflows  
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    APPLIED AI SYSTEMS                    │
+├──────────────────────────────────────────────────────────┤
+│ LLM Apps       → useful interfaces + workflow automation│
+│ NLP            → classification + extraction + analysis │
+│ Agentic AI     → tools + execution + feedback loops     │
+│ AI + Security  → privacy-aware, trust-aware products    │
+│ Developer AI   → testing + productivity + automation    │
+└──────────────────────────────────────────────────────────┘
+```
 
-**Focus:** Agentic AI • Playwright • Web automation
+<details>
+<summary><b>🤖 AI / ML / NLP</b></summary>
+<br>
+`Python` `PyTorch` `scikit-learn` `HuggingFace` `Transformers` `RoBERTa` `NLP` `LLMs` `Prompt Engineering` `RAG`
+</details>
 
----
+<details>
+<summary><b>⚙️ Backend / Automation</b></summary>
+<br>
+`FastAPI` `Flask` `REST APIs` `Playwright` `Selenium`
+</details>
 
-### **Repo2Resume**
-A **GitHub-to-resume pipeline** that turns repository/project information into structured, ATS-friendly resume bullets.
+<details>
+<summary><b>🎨 Frontend / Product</b></summary>
+<br>
+`React` `JavaScript` `HTML` `CSS` `Gradio` `Streamlit`
+</details>
 
-**Highlights**
-- Extracts project signals from GitHub repositories  
-- Ranks and transforms technical work into resume-ready language  
-- Useful for developers who have projects but struggle to present them clearly  
-
-**Focus:** NLP • Developer tooling • Applied AI
-
----
-
-### **SAGE** *(in development)*
-**Storage Analysis and Guidance Engine** — a conversational AI concept for understanding storage clutter and guiding better cleanup decisions.
-
-**Focus:** AI assistant systems • reasoning workflows • user-facing utility tools
-
----
-
-## Experience
-
-### **GenAI Application Developer** — Skillab.in
-Worked on practical AI systems for workflow automation and recruitment-oriented use cases.
-
-**Built / contributed to**
-- AI-powered resume scanning and scoring workflows  
-- Interview preparation kit generation  
-- AI-based e-book/content generation workflows  
-- Product-oriented AI features designed for real user utility  
+<details>
+<summary><b>🧠 Core CS / Data</b></summary>
+<br>
+`C++` `Java` `SQL` `Data Structures & Algorithms` `Cybersecurity`
+</details>
 
 ---
 
-### **Data Analyst Intern** — Sprout Labs
-Supported data operations and improved reusable data workflows.
+## 💼 Experience
 
-**Impact**
-- Reduced manual effort in repetitive data handling by **60%**
-- Worked with data collection, preparation, and reusable analysis pipelines
+### GenAI Application Developer · Skillab.in
+Built and contributed to practical AI workflows for recruitment and content automation, including resume-scoring, interview-preparation generation, and AI-powered content systems.
 
----
-
-## Core Strengths
-
-- LLM integration and prompt engineering  
-- NLP model application and transformer-based workflows  
-- RAG-style thinking and information workflows  
-- Full-stack AI product development  
-- Automation systems that reduce repetitive work  
-- Privacy-aware and compliance-conscious AI design  
+### Data Analyst Intern · Sprout Labs
+Worked on data collection, preparation, and reusable analysis workflows, including process improvements that reduced repetitive manual effort by **60%**.
 
 ---
 
-## Selected Highlights
+## 📌 Currently Exploring
 
-- **CGPA:** 9.38 / 10  
-- Built **production-oriented GenAI applications**, not just prototypes  
-- Strong overlap between **AI engineering + product thinking + cyber security**  
-- Interested in **real-world systems, responsible AI, and useful automation**
+`Agentic AI` · `LLM Evaluation` · `AI Reliability` · `Privacy-aware AI` · `Better AI UX` · `Production AI Engineering` · `DSA`
 
 ---
 
-## GitHub Stats
+## 🏆 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NiketF&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
----
+<br>
 
-## Currently Exploring
+<img height="165" src="https://streak-stats.demolab.com?user=NiketF&hide_border=true&theme=transparent" alt="GitHub streak" />
 
-- Agentic AI systems  
-- LLM reliability and evaluation  
-- Privacy / trust-aware AI products  
-- Better interfaces for AI-powered tools  
-- Production engineering for applied AI systems  
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&hide_border=true&area=true&radius=8&custom_title=Niket%27s%20Contribution%20Graph" alt="Contribution graph" />
+</div>
 
 ---
 
-## Connect
+## 🧪 Explore My Work
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/niket-fuladi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Niket%20Fuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://niketfuladi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/NiketF" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-NiketF-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<details>
+<summary><b>🔎 PrivacyLens</b></summary>
+<br>
+DPDPA 2023-aligned clause-level analysis with category classification, risk prediction, vagueness detection, absence detection, and plain-English explanations.
+
+<a href="https://github.com/NiketF/PrivacyLens">Open PrivacyLens →</a>
+</details>
+
+<details>
+<summary><b>🌐 AutoTest AI</b></summary>
+<br>
+A modular URL → DOM analysis → test generation → Playwright execution → structured results pipeline.
+
+<a href="https://github.com/NiketF/Auto_test_ai">Open AutoTest AI →</a>
+</details>
+
+<details>
+<summary><b>📄 Repo2Resume</b></summary>
+<br>
+A GitHub-to-resume pipeline designed to turn project signals into concise, ATS-friendly resume content.
+
+<a href="https://github.com/NiketF/Repo2Resume">Open Repo2Resume →</a>
+</details>
+
+<details>
+<summary><b>🧑‍💻 Daily-Leet</b></summary>
+<br>
+My space for solving and documenting Data Structures & Algorithms problems while strengthening implementation fundamentals.
+
+<a href="https://github.com/NiketF/Daily-Leet">Open Daily-Leet →</a>
+</details>
 
 ---
 
-## One-Line Summary
+## 🎓 Education & Highlights
 
-**AI engineer building practical LLM, NLP, and automation systems with a strong product mindset and a cybersecurity lens.**
+- **B.Tech CSE — Cyber Security**, Shri Ramdeobaba College of Engineering and Management
+- **CGPA: 9.38 / 10**
+- Applied GenAI certification — 100xEngineers
+- Research-oriented work across **AI, privacy, NLP, and cybersecurity**
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+<a href="https://niketfuladi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2455FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/niket-fuladi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:fuladiniket.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br>
+
+<div align="center">
+
+**AI engineering with a product mindset — grounded in real problems, not just notebooks.** 🚀
+
+</div>
