@@ -39,12 +39,12 @@
 
 ```python
 niket = {
-    "role"      : "GenAI Application Developer",
+    "role"      : "AI Engineer",
     "degree"    : "B.Tech CSE (Cyber Security) @ RCOEM Nagpur",
     "cgpa"      : 9.38,
     "location"  : "Nagpur, India  |  Open to Pune / Hyderabad / Bangalore / Remote",
-    "strengths" : ["LLM Integration", "RAG Pipelines", "NLP Fine-tuning", "Full-Stack AI"],
-    "motto"     : "Ship systems that work in the real world, not just in notebooks.",
+    "strengths" : ["LLM Integration", "RAG Pipelines", "NLP Fine-tuning", "Agentic AI"],
+    "motto"     : "Build AI powered solutions to real world problems.",
     "status"    : "Actively seeking GenAI / AI Product Developer roles"
 }
 ```
