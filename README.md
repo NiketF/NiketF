@@ -1,106 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,17&text=NIKET%20FULADI&fontSize=46&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20NLP%20%7C%20Cybersecurity&descAlignY=61&descSize=17" width="100%" />
-
-<a href="https://niketfuladi.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit-2455FF?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/niket-fuladi/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-0A66C2?style=for-the-badge" /></a>
-<a href="mailto:fuladiniket.work@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-Contact-EA4335?style=for-the-badge" /></a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+practical+AI+systems;LLMs+%2B+NLP+%2B+Automation;AI+with+a+Cybersecurity+lens;Turning+real+problems+into+products" alt="Typing intro" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=NiketF&style=for-the-badge&color=2455ff&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/NiketF?style=for-the-badge&label=Followers" alt="GitHub followers" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C1E,50:1a1a3e,100:0d1117&height=180&section=header&text=Niket%20Fuladi&fontSize=48&fontColor=E2E8F0&fontAlignY=38&desc=GenAI%20Application%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descSize=16&descColor=7C3AED&descAlignY=58&animation=fadeIn" />
 
 </div>
-
----
-
-## 🧭 Navigation
 
 <div align="center">
 
-`01` **About** · `02` **Featured Builds** · `03` **Stack** · `04` **Activity** · `05` **Experience** · `06` **Connect**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+GenAI+systems;LLM+Integration+%E2%80%A2+RAG+Pipelines+%E2%80%A2+NLP+Fine-tuning;From+research+to+real-world+deployment)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## ⚡ About Me
-
-I’m a **final-year B.Tech CSE student specializing in Cyber Security** at **Shri Ramdeobaba College of Engineering and Management, Nagpur**, focused on building practical AI systems that solve real workflow problems.
-
-My work sits at the intersection of **Generative AI, NLP, automation, and cybersecurity** — from privacy-policy intelligence and browser automation to developer tooling and AI-assisted workflows.
-
-> **I like building beyond the demo: useful, reliable systems grounded in real-world workflows.**
 
 <div align="center">
 
-### `AI` × `PRODUCT` × `SECURITY`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niketfuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niketfuladi)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-fuladiniket.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-NiketF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiketF)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCC8Vda367/)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NiketF&color=7c3aed&style=flat-square&label=Profile+Views)&nbsp;
+![Followers](https://img.shields.io/github/followers/NiketF?style=flat-square&color=6d28d9&label=Followers)
 
 </div>
 
 ---
 
-## 🚀 Featured Builds
+## Who I Am
+
+Final-year **B.Tech CSE (Cyber Security)** student at RCOEM, Nagpur — **CGPA 9.38 / 10**. I build GenAI applications that ship, not just prototypes that demo.
+
+**Internship-proven track record:**
+- Delivered 3 production GenAI tools at **SkilLab** — all actively used post-internship
+- Built **PrivacyLens**, the first DPDPA 2023-aligned clause-level risk classifier trained on Indian company data (0.593 Macro F1, 816 annotated clauses)
+- Automated data pipelines at **Sprout Lab**, cutting manual processing by 60%
+
+> *"Ship systems that work in the real world — not just in notebooks."*
+
+---
+
+## Core Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🔐 PrivacyLens
-**Privacy intelligence for Indian policies**
+**Languages**
 
-Clause-level DPDPA-aligned analysis with risk classification, vagueness detection, missing-rights detection, plain-English explanations, and a composite risk score.
+![Python](https://skillicons.dev/icons?i=python)&nbsp;
+![Java](https://skillicons.dev/icons?i=java)&nbsp;
+![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-`RoBERTa` `HuggingFace` `scikit-learn` `Streamlit`
+**Backend & APIs**
 
-**Research:** 816 manually annotated clauses · category classifier Macro F1 0.80
-
-<a href="https://github.com/NiketF/PrivacyLens"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-111827?style=for-the-badge" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 AutoTest AI
-**AI-powered E2E web testing**
-
-Analyzes live web pages, detects actionable elements, generates test flows, executes them with Playwright, and returns structured results.
-
-`FastAPI` `Playwright` `React` `Python`
-
-**Pipeline:** URL → DOM → selectors → flows → execution → results
-
-<a href="https://github.com/NiketF/Auto_test_ai"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-111827?style=for-the-badge" /></a>
+![FastAPI](https://skillicons.dev/icons?i=fastapi)&nbsp;
+![Flask](https://skillicons.dev/icons?i=flask)&nbsp;
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)&nbsp;
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🧠 Repo2Resume
-**GitHub → resume intelligence**
+**AI / ML Layer**
 
-Turns project/repository information into concise, role-relevant resume bullets with NLP, ranking, and GitHub data extraction.
+```
+Gemini API  ·  HuggingFace  ·  RoBERTa
+RAG Pipelines  ·  Vector DBs  ·  Langchain
+Prompt Engineering  ·  Playwright  ·  Selenium
+Scikit-learn  ·  Pandas  ·  Power BI
+```
 
-`HuggingFace` `GitHub API` `Gradio` `Python`
+**Frontend & DevOps**
 
-<a href="https://github.com/NiketF/Repo2Resume"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-111827?style=for-the-badge" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ SAGE
-**Storage Analysis & Guidance Engine**
-
-An in-development conversational AI concept focused on understanding storage clutter and guiding smarter cleanup decisions.
-
-`AI Assistant` `Reasoning` `Utility`
-
-<a href="https://niketfuladi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20ON%20PORTFOLIO-2455FF?style=for-the-badge" /></a>
+![React](https://skillicons.dev/icons?i=react)&nbsp;
+![HTML](https://skillicons.dev/icons?i=html)&nbsp;
+![CSS](https://skillicons.dev/icons?i=css)&nbsp;
+![Docker](https://skillicons.dev/icons?i=docker)&nbsp;
+![Linux](https://skillicons.dev/icons?i=linux)&nbsp;
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 </td>
 </tr>
@@ -108,205 +91,163 @@ An in-development conversational AI concept focused on understanding storage clu
 
 ---
 
-## 🧩 How I Think About Systems
+## Featured Projects
 
-```text
-                    REAL-WORLD PROBLEM
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │  AI / NLP LAYER  │
-                  └────────┬─────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          REASONING     AUTOMATION     SECURITY
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                  ┌──────────────────┐
-                  │  PRODUCT / UX    │
-                  └────────┬─────────┘
-                           ▼
-                    USEFUL SOFTWARE
+### PrivacyLens — DPDPA-Aligned Privacy Policy Analyzer
+
+> **The first clause-level AI system aligned to India's Digital Personal Data Protection Act 2023.** Identifies high-risk, vague, and non-compliant clauses in real-world privacy policies — benchmarked against Polisis, the academic standard.
+
+```
+Stack     →  Python · RoBERTa · Gemini API · Streamlit · HuggingFace · Scikit-learn
+Dataset   →  816 manually annotated clauses from 9 Indian companies
+Results   →  0.593 Macro F1  |  0.660 Red-class F1 (high-risk clause detection)
+Impact    →  End-to-end risk scoring on real policies  |  Targeting arXiv + FIRE 2025
+```
+
+**What makes it non-trivial:** Custom two-phase training pipeline on a highly imbalanced legal corpus. Secondary vagueness classifier. Gemini API integration for plain-English clause simplification. The only publicly benchmarked DPDPA classifier on Indian company data.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NiketF)
+
+---
+
+### AutoTest AI — Autonomous E2E Testing System
+
+> **Zero-script test generation.** Point at a URL, get back a full browser interaction test suite. LLM analyzes live DOM, generates interaction flows, executes them in real browsers.
+
+```
+Stack        →  Python · FastAPI · Playwright · React · LLM APIs
+Coverage     →  4+ real-world websites validated
+Output       →  6+ automated test cases per website, generated and executed
+Architecture →  Modular pipeline with self-healing selectors + test memory
+Impact       →  UI regression setup: hours → minutes
+```
+
+**What makes it non-trivial:** DOM context is serialized and fed to an LLM reasoning module that produces semantically meaningful flows — not generic click scripts. Self-healing selectors recover from DOM mutations. FastAPI backend + React frontend with per-step validation output.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NiketF)
+
+---
+
+### Repo2Resume — GitHub README → Resume Bullet Pipeline
+
+> Converts a GitHub repository README into polished, metric-aware resume bullets using LLM extraction. Handles imprecise repo descriptions and infers impact language.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NiketF)
+
+---
+
+## Professional Experience
+
+<details>
+<summary><strong>GenAI Application Developer — SkilLab</strong> &nbsp;|&nbsp; Sep 2025 – Feb 2026 &nbsp;·&nbsp; Nagpur</summary>
+
+<br>
+
+Delivered three production-ready GenAI tools during internship; all retained in active business use post-internship.
+
+**Resume Intelligence System** — Analyzed 15+ real resumes to iteratively refine prompt chains via Gemini APIs. Built automated parsing, candidate scoring, and personalized career recommendations, improving hiring evaluation consistency.
+
+**Ebook Generator** — Designed and deployed a domain-specific ebook generation pipeline. 5 ebooks adopted directly into business content operations.
+
+**AI Dashboard** — Full-cycle: software design → UI/UX → deployment. Validated by 35+ users for usability and functional correctness.
+
+`Python` `Gemini API` `Prompt Engineering` `FastAPI` `React`
+
+</details>
+
+<details>
+<summary><strong>Data Analyst Intern — Sprout Lab</strong> &nbsp;|&nbsp; Aug 2024 – Apr 2025 &nbsp;·&nbsp; Nagpur</summary>
+
+<br>
+
+Built data infrastructure for lead generation workflows. Reduced manual overhead by **60%** through Pandas-based ETL pipelines and Selenium browser automation for structured lead data extraction at scale.
+
+`Python` `Pandas` `Selenium` `SQL`
+
+</details>
+
+<details>
+<summary><strong>Community Management Lead — GDG DevFest 2025</strong> &nbsp;|&nbsp; Oct – Dec 2025 &nbsp;·&nbsp; Nagpur</summary>
+
+<br>
+
+Led community and event operations for DevFest 2025 Nagpur — one of GDG's flagship annual events. Onboarded 10+ community partners, managed the official event website and digital asset pipeline, orchestrated stage logistics across all speaker sessions (100+ attendees).
+
+`Community Management` `Event Operations` `Google Developer Groups`
+
+</details>
+
+---
+
+## What I'm Building Now
+
+```yaml
+learning:
+  - LoRA / QLoRA fine-tuning on open-source models (Mistral, Llama 3)
+  - Agentic architectures — LangGraph, multi-agent orchestration
+  - Advanced RAG — reranking, hybrid retrieval, knowledge graphs
+
+building:
+  - AI-native developer tooling with production constraints
+  - NLP systems aligned to Indian regulatory frameworks (DPDPA 2023)
+  - Production automation pipelines integrating LLM reasoning
+
+open_to:
+  - GenAI Application Developer roles
+  - AI Product Developer internships (remote / hybrid / Nagpur)
+  - NLP + privacy AI research collaboration
+  - OSS contributions to LLM tooling ecosystems
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Achievements
 
-<details open>
-<summary><b>🤖 AI / ML / NLP</b></summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-`HuggingFace` `Transformers` `RoBERTa` `scikit-learn` `spaCy` `LLMs` `Prompt Engineering` `RAG`
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend / Automation</b></summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,selenium" />
-
-`REST APIs` `Playwright` `Web Automation` `Workflow Automation`
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend / Product</b></summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
-
-`Gradio` `Streamlit`
-
-</details>
-
-<details>
-<summary><b>🧠 Core CS / Data / Security</b></summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,mysql" />
-
-`Data Structures & Algorithms` `SQL` `Cybersecurity`
-
-</details>
+| | |
+|---|---|
+| 🏆 **PrivacyLens — Original Research** | First DPDPA-aligned classifier on Indian company data, targeting arXiv & FIRE 2025 |
+| 🏆 **SkilLab Production Deployment** | 3 GenAI tools deployed and retained in active business use post-internship |
+| 🏆 **GDG DevFest 2025 — Community Lead** | Led 100+ attendee flagship developer conference, Nagpur |
+| 🏆 **CGPA 9.38 / 10** | Top academic standing, B.Tech CSE (Cyber Security), RCOEM |
+| 🏆 **60% Efficiency Gain** | Pandas ETL pipeline, Sprout Lab |
+| 🏆 **Comp-EX 2025 Tech Lead** | End-to-end technical coordination for 2+ events, 100+ participants |
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NiketF&hide_border=true&theme=transparent" height="170" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d14&title_color=7c3aed&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=7c3aed&text_color=c4b5fd&langs_count=8" height="165" />
 
 </div>
 
-<details>
-<summary><b>📊 Contribution graph</b></summary>
-<br>
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&hide_border=true&area=true&radius=10&custom_title=Niket's%20Contribution%20Activity" alt="Contribution graph" width="95%" />
+
+<img src="https://streak-stats.demolab.com?user=NiketF&theme=tokyonight&hide_border=true&background=0d0d14&ring=7c3aed&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+
 </div>
 
-</details>
-
----
-
-## 🧪 Project Lab
-
-<details>
-<summary><b>🔐 PrivacyLens — privacy + NLP research</b></summary>
-<br>
-
-DPDPA 2023-aligned clause-level privacy analysis. Uses a category-classification stage, RoBERTa-based risk classification, vagueness signals, absence detection, and plain-English explanations.
-
-**Interesting because:** it combines **NLP research + privacy engineering + product thinking**.
-
-<a href="https://github.com/NiketF/PrivacyLens">Open repository →</a>
-
-</details>
-
-<details>
-<summary><b>🧪 AutoTest AI — browser automation</b></summary>
-<br>
-
-A modular testing pipeline from URL input through DOM analysis, selector ranking, test-flow generation, Playwright execution, and structured result formatting.
-
-**Interesting because:** it treats browser testing as an **automation system**, not just a collection of scripts.
-
-<a href="https://github.com/NiketF/Auto_test_ai">Open repository →</a>
-
-</details>
-
-<details>
-<summary><b>🧠 Repo2Resume — developer tooling</b></summary>
-<br>
-
-A GitHub-to-resume workflow that extracts project signals and turns them into concise, role-relevant resume content.
-
-**Interesting because:** it applies AI/NLP to a practical developer workflow.
-
-<a href="https://github.com/NiketF/Repo2Resume">Open repository →</a>
-
-</details>
-
-<details>
-<summary><b>🧑‍💻 Daily-Leet — DSA practice</b></summary>
-<br>
-
-An ongoing repository for solving and documenting DSA problems while improving implementation fundamentals.
-
-<a href="https://github.com/NiketF/Daily-Leet">Open repository →</a>
-
-</details>
-
----
-
-## 💼 Experience
-
-### GenAI Application Developer · Skillab.in
-Worked on practical AI workflows for recruitment and content automation, including resume-scoring workflows, interview-preparation generation, and AI-powered content systems.
-
-### Data Analyst Intern · Sprout Labs
-Worked on data collection, preparation, and reusable analysis workflows, including process improvements that reduced repetitive manual effort by **60%**.
-
----
-
-## 🎓 Education & Highlights
-
 <div align="center">
 
-**B.Tech CSE — Cyber Security**  
-Shri Ramdeobaba College of Engineering and Management
-
-`CGPA 9.38 / 10` · `Applied GenAI — 100xEngineers`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&bg_color=0d0d14&color=7c3aed&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔭 Currently Exploring
-
 <div align="center">
 
-`Agentic AI` · `LLM Evaluation` · `AI Reliability` · `Privacy-aware AI` · `Better AI UX` · `Production AI Engineering` · `DSA`
+![Snake](https://raw.githubusercontent.com/NiketF/NiketF/output/github-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🏁 Build Philosophy
-
 <div align="center">
 
-### **Think deeply → build practically → measure honestly → iterate relentlessly.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C1E,50:1a1a3e,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
 </div>
-
----
-
-## 🤝 Let’s Connect
-
-<div align="center">
-
-<a href="https://niketfuladi.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-2455FF?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/niket-fuladi/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-0A66C2?style=for-the-badge" /></a>
-<a href="mailto:fuladiniket.work@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-EA4335?style=for-the-badge" /></a>
-
-<br><br>
-
-**Building AI systems that are useful, understandable, and grounded in real problems.** 🚀
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,14,17" width="100%" />
