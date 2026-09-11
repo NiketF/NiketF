@@ -309,7 +309,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true" width="95%" />
+<img src="https://github-readme-activity-graph-psi-one.vercel.app/graph?username=NiketF&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true" width="95%" />
 
 </div>
 
