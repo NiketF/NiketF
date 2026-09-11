@@ -290,7 +290,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&ring_color=6d28d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&cache_seconds=1800" height="165" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" height="165" />
 
@@ -308,17 +308,11 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1a0533&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
 <br>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NiketF&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/NiketF)
-
-</div>
 
 <br>
 
