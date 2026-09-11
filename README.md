@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0f0f2e,60:1a0533,100:0d1117&height=200&section=header&text=Niket%20Fuladi&fontSize=52&fontColor=F1F5F9&fontAlignY=36&fontStyle=bold&desc=GenAI%20Application%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descSize=16&descColor=A78BFA&descAlignY=56&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0f0f2e,60:1a0533,100:0d1117&height=200&section=header&text=Niket%20Fuladi&fontSize=52&fontColor=F1F5F9&fontAlignY=36&fontStyle=bold&desc=AI%20%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descSize=16&descColor=A78BFA&descAlignY=56&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+production-ready+GenAI+systems+%F0%9F%9A%80;LLM+Integration+%E2%80%A2+RAG+Pipelines+%E2%80%A2+NLP+Fine-tuning;From+research+to+real-world+deployment+%F0%9F%8C%8D;DPDPA+2023+%E2%80%A2+Privacy+AI+%E2%80%A2+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI+powered-solutions+for+real+world+problems+%F0%9F%9A%80;LLM+Integration+%E2%80%A2+RAG+Pipelines+%E2%80%A2+NLP+Fine-tuning;From+research+to+real-world+deployment+%F0%9F%8C%8D;DPDPA+2023+%E2%80%A2+Privacy+AI+%E2%80%A2+Agentic+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-niketfuladi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niketfuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niketfuladi)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Niket+Fuladi-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niket+fuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCC8Vda367/)
 
@@ -44,8 +44,8 @@ niket = {
     "cgpa"      : 9.38,
     "location"  : "Nagpur, India  |  Open to Pune / Hyderabad / Bangalore / Remote",
     "strengths" : ["LLM Integration", "RAG Pipelines", "NLP Fine-tuning", "Agentic AI"],
-    "motto"     : "Build AI powered solutions to real world problems.",
-    "status"    : "Actively seeking GenAI / AI Product Developer roles"
+    "motto"     : "Build AI powered solutions for real world problems.",
+    "status"    : "Actively seeking GenAI / AI Product and Developer roles"
 }
 ```
 
@@ -178,7 +178,7 @@ Converts a repository README into polished, metric-aware resume bullets using LL
 </td>
 <td width="50%" valign="top">
 
-### SAGE (StorageSentinel AI)
+### Storage Analysis and Guidance Engine (SAGE)
 
 **Conversational AI disk cleanup assistant for non-technical users.**
 
@@ -199,7 +199,7 @@ WizTree-speed scanning with natural language interface. Users describe what to c
 ## Experience
 
 <details>
-<summary><b>GenAI Application Developer &nbsp;@&nbsp; SkilLab</b> &nbsp;&nbsp; Sep 2025 – Feb 2026 &nbsp;·&nbsp; Nagpur</summary>
+<summary><b>AI Engineer Intern &nbsp;@&nbsp; SkilLab</b> &nbsp;&nbsp; Sep 2025 – Feb 2026 &nbsp;·&nbsp; Nagpur</summary>
 <br>
 
 Delivered three production GenAI tools during internship. All three remained in active business use after the internship ended.
@@ -244,19 +244,18 @@ Led community and event operations for DevFest 2025 Nagpur, one of GDG's flagshi
 
 ```yaml
 learning:
-  - LoRA and QLoRA fine-tuning on open-source models (Mistral, Llama 3)
   - Agentic architectures with LangGraph and multi-agent orchestration
   - Advanced RAG patterns including reranking, hybrid retrieval, knowledge graphs
 
 building:
+  - AI powered conversational disk cleaning assistant
   - AI-native developer tooling under real production constraints
   - NLP systems aligned to Indian regulatory frameworks (DPDPA 2023)
-  - Production automation pipelines with embedded LLM reasoning
+  
 
 open_to:
-  - GenAI Application Developer roles
-  - AI Product Developer internships (remote / hybrid / Nagpur)
-  - NLP and privacy AI research collaboration
+  - AI Engineer roles
+  - AI Product Developer internships (remote / hybrid / Pune / Hyderabad / Banagalore)
   - Open source contributions to LLM tooling ecosystems
 ```
 
