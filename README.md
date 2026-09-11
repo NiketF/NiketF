@@ -274,7 +274,7 @@ open_to:
 |:---:|:---|:---|
 | ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **PrivacyLens Original Research** | First DPDPA-aligned classifier on Indian company data, targeting arXiv and FIRE 2025 |
 | ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **SkilLab Production Deployment** | 3 GenAI tools deployed and retained in active business use post-internship |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **GDG DevFest 2025 Community Lead** | Led 100+ attendee flagship developer conference, Nagpur |
+| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **GDG DevFest 2025 Community Management Lead** | Led 100+ attendee flagship developer conference, Nagpur |
 | ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **CGPA 9.38 / 10** | Top academic standing, B.Tech CSE (Cyber Security), RCOEM |
 | ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **60% Efficiency Gain at Sprout Lab** | Pandas ETL pipeline eliminated majority of manual processing overhead |
 | ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **Comp-EX 2025 Tech Lead** | End-to-end technical coordination for 2+ events, 100+ participants |
