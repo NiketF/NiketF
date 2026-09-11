@@ -325,7 +325,7 @@ open_to:
 **Open to opportunities. Let's build something real.**
 
 [![Portfolio](https://img.shields.io/badge/niketfuladi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niketfuladi)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)&nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)
 
 </div>
