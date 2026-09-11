@@ -315,28 +315,6 @@ open_to:
 
 <br>
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NiketF&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/NiketF)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NiketF/NiketF/output/github-snake-dark.svg)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
 **Open to opportunities. Let's build something real.**
 
 [![Portfolio](https://img.shields.io/badge/niketfuladi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
