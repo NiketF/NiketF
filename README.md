@@ -288,14 +288,6 @@ open_to:
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&cache_seconds=1800" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" height="165" />
-
-</div>
-
 <br>
 
 <div align="center">
