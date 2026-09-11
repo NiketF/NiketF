@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0f0f2e,60:1a0533,100:0d1117&height=200&section=header&text=Niket%20Fuladi&fontSize=52&fontColor=F1F5F9&fontAlignY=36&fontStyle=bold&desc=AI%20%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descSize=16&descColor=A78BFA&descAlignY=56&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0f0f2e,60:1a0533,100:0d1117&height=200&section=header&text=Niket%20Fuladi&fontSize=52&fontColor=F1F5F9&fontAlignY=36&fontStyle=bold&desc=AI%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descSize=16&descColor=A78BFA&descAlignY=56&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI+powered-solutions+for+real+world+problems+%F0%9F%9A%80;LLM+Integration+%E2%80%A2+RAG+Pipelines+%E2%80%A2+NLP+Fine-tuning;From+research+to+real-world+deployment+%F0%9F%8C%8D;DPDPA+2023+%E2%80%A2+Privacy+AI+%E2%80%A2+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI+powered+solutions+for+real+world+problems+%F0%9F%9A%80;LLM+Integration+%E2%80%A2+RAG+Pipelines+%E2%80%A2+NLP+Fine-tuning;From+research+to+real-world+deployment+%F0%9F%8C%8D;DPDPA+2023+%E2%80%A2+Privacy+AI+%E2%80%A2+Agentic+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -248,14 +248,13 @@ learning:
   - Advanced RAG patterns including reranking, hybrid retrieval, knowledge graphs
 
 building:
-  - AI powered conversational disk cleaning assistant
+  - AI powered conversational disk cleaning assistant (SAGE)
   - AI-native developer tooling under real production constraints
   - NLP systems aligned to Indian regulatory frameworks (DPDPA 2023)
-  
 
 open_to:
   - AI Engineer roles
-  - AI Product Developer internships (remote / hybrid / Pune / Hyderabad / Banagalore)
+  - AI Product Developer internships (remote / hybrid / Pune / Hyderabad / Bangalore)
   - Open source contributions to LLM tooling ecosystems
 ```
 
@@ -271,12 +270,12 @@ open_to:
 
 | | Achievement | Detail |
 |:---:|:---|:---|
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **PrivacyLens Original Research** | First DPDPA-aligned classifier on Indian company data, targeting arXiv and FIRE 2025 |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **SkilLab Production Deployment** | 3 GenAI tools deployed and retained in active business use post-internship |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **GDG DevFest 2025 Community Management Lead** | Led 100+ attendee flagship developer conference, Nagpur |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **CGPA 9.38 / 10** | Top academic standing, B.Tech CSE (Cyber Security), RCOEM |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **60% Efficiency Gain at Sprout Lab** | Pandas ETL pipeline eliminated majority of manual processing overhead |
-| ![trophy](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=trophy) | **Comp-EX 2025 Tech Lead** | End-to-end technical coordination for 2+ events, 100+ participants |
+| 🏆 | **PrivacyLens Original Research** | First DPDPA-aligned classifier on Indian company data, targeting arXiv and FIRE 2025 |
+| 🏆 | **SkilLab Production Deployment** | 3 GenAI tools deployed and retained in active business use post-internship |
+| 🏆 | **GDG DevFest 2025 Community Management Lead** | Led 100+ attendee flagship developer conference, Nagpur |
+| 🏆 | **CGPA 9.38 / 10** | Top academic standing, B.Tech CSE (Cyber Security), RCOEM |
+| 🏆 | **60% Efficiency Gain at Sprout Lab** | Pandas ETL pipeline eliminated majority of manual processing overhead |
+| 🏆 | **Comp-EX 2025 Tech Lead** | End-to-end technical coordination for 2+ events, 100+ participants |
 
 </div>
 
@@ -292,6 +291,16 @@ open_to:
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=NiketF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c4b5fd&ring_color=6d28d9&cache_seconds=1800" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiketF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8&cache_seconds=1800" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=NiketF&theme=tokyonight&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=6b7280" />
 
 </div>
@@ -300,11 +309,17 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiketF&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&area=true" width="95%" />
 
 </div>
 
 <br>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NiketF&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/NiketF)
+
+</div>
 
 <br>
 
