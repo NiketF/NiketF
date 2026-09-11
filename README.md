@@ -14,8 +14,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Niket+Fuladi-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niket+fuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-NiketFuladi-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://niketfuladi.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NiketFuladi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-fuladi)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuladiniket.work@gmail.com)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCC8Vda367/)
 
